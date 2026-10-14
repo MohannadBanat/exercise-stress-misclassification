@@ -1,0 +1,19 @@
+{
+  "title": "exercise-stress-misclassification: code for \"Revealing Exercise-Induced Misclassification in Wearable Stress Detection for Automated Insulin Delivery\"",
+  "upload_type": "software",
+  "description": "Analysis code, segment index, hashed pre-specified rules and trial log for a pre-registered re-evaluation of stress and exercise recognition from Empatica E4 wrist signals (PhysioNet dataset doi:10.13026/he0v-tf17), with an external test on WESAD. Raw data are not redistributed. Pre-registration: https://osf.io/swge8. This research was financially supported by the Deanship of Scientific Research and Graduate Studies at King Khalid University under research grant number (R.G.P.2/191/47).",
+  "creators": [
+    {"name": "Abu Owida, Hamza", "affiliation": "Department of Medical Engineering, Faculty of Engineering, Al-Ahliyya Amman University, Amman 19328, Jordan"},
+    {"name": "Alsarhan, Ayoub", "affiliation": "Department of Information Technology, The Hashemite University, Zarqa 13133, Jordan"},
+    {"name": "Banat, Mohannad", "affiliation": "Department of Medical Engineering, Faculty of Engineering, Al-Ahliyya Amman University, Amman 19328, Jordan"},
+    {"name": "Al-Fraihat, Dimah", "affiliation": "Department of Software Engineering, Faculty of Information Technology, Isra University, Amman 11622, Jordan"},
+    {"name": "Algarni, Abdulmohsen", "affiliation": "Department of Computer Science, King Khalid University, Abha 61421, Saudi Arabia"}
+  ],
+  "license": "MIT",
+  "keywords": ["wearable sensors", "stress detection", "exercise recognition", "electrodermal activity", "photoplethysmography", "data leakage", "shortcut learning", "pre-registration", "type 1 diabetes"],
+  "related_identifiers": [
+    {"identifier": "10.13026/he0v-tf17", "relation": "references", "scheme": "doi"},
+    {"identifier": "https://osf.io/swge8", "relation": "references", "scheme": "url"}
+  ],
+  "version": "1.0.0"
+}
