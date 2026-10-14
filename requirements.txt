@@ -1,0 +1,9 @@
+# Versions stated in the paper (Section 3.7). Replace this file with the output of
+# `pip freeze` from the environment that produced the results before the v1.0 release.
+scikit-learn>=1.9,<1.10
+xgboost>=3.4,<3.5
+statsmodels>=0.15,<0.16
+neurokit2==0.2.13
+numpy
+pandas
+scipy

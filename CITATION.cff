@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "exercise-stress-misclassification: code for Revealing Exercise-Induced Misclassification in Wearable Stress Detection for Automated Insulin Delivery"
+version: 1.0.0
+date-released: 2026-10-14
+license: MIT
+repository-code: "https://github.com/mohannadbanat-cmd/exercise-stress-misclassification"
+authors:
+  - family-names: "Abu Owida"
+    given-names: "Hamza"
+    affiliation: "Al-Ahliyya Amman University"
+  - family-names: "Alsarhan"
+    given-names: "Ayoub"
+    affiliation: "The Hashemite University"
+  - family-names: "Banat"
+    given-names: "Mohannad"
+    affiliation: "Al-Ahliyya Amman University"
+  - family-names: "Al-Fraihat"
+    given-names: "Dimah"
+    affiliation: "Isra University"
+  - family-names: "Algarni"
+    given-names: "Abdulmohsen"
+    affiliation: "King Khalid University"
+keywords:
+  - wearable sensors
+  - stress detection
+  - exercise recognition
+  - data leakage
+  - pre-registration
