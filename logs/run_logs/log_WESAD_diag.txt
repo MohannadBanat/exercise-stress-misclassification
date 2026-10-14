@@ -1,0 +1,7 @@
+23:48:03 D2_selected_refad5 {'auroc': 0.403, 'tsst_alarm': 0.077, 'rest_alarm': 0.111, 'tsst_alarm_still': 0.1, 'tsst_alarm_moving': 0.068, 'share_tsst_moving': 0.648, 'share_rest_moving': 0.329}
+23:48:05 D2_reference_ref {'auroc': 0.506, 'tsst_alarm': 0.206, 'rest_alarm': 0.191, 'tsst_alarm_still': 0.27, 'tsst_alarm_moving': 0.156, 'share_tsst_moving': 0.648, 'share_rest_moving': 0.329}
+23:48:11 D3_physiology_only_E6_style {'auroc': 0.923, 'tsst_alarm': 0.973, 'rest_alarm': 0.416, 'tsst_alarm_still': 0.976, 'tsst_alarm_moving': 0.97, 'share_tsst_moving': 0.648, 'share_rest_moving': 0.329}
+23:48:29 D4 training CV without ACC {'exercise_alarm': [0.07415854502568561, 0.03791064882758956, 0.11623436909283387, 31], 'rest_alarm': [0.29817809397043293, 0.2349184510625728, 0.3649361489765724, 36], 'stress_alarm': [0.8007497219603772, 0.7109898760086615, 0.8794435097991438, 36]}
+23:48:29 D4 training CV with ACC {'exercise_alarm': [0.009106078594299587, 0.0031738487616834146, 0.016120861059525076, 31], 'rest_alarm': [0.23720481630859488, 0.18339893704870533, 0.2955825939439893, 36], 'stress_alarm': [0.803439383277382, 0.7250748475430546, 0.8736337602724503, 36]}
+23:48:32 D4_no_accelerometer {'auroc': 0.266, 'tsst_alarm': 0.114, 'rest_alarm': 0.343, 'tsst_alarm_still': 0.103, 'tsst_alarm_moving': 0.127, 'share_tsst_moving': 0.648, 'share_rest_moving': 0.329}
+23:48:32 saved

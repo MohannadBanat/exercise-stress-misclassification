@@ -1,0 +1,3 @@
+14:48:31 E5 start
+14:50:23 E5 done {'pooled_ba_within': 0.6619760479041916, 'pooled_ba_cross': 0.6881796307551287, 'by_cohort': {'V1': {'within': 0.7099292724381819, 'cross': 0.6474678801834897}, 'V2': {'within': 0.6305612620948139, 'cross': 0.708785500337165}}} {'estimate': -0.004628168029424889, 'ci_low': -0.05526074341561003, 'ci_high': 0.05029070410711688, 'p': 0.5822, 'p_wilcoxon': 0.7816227658287875, 'n': 36, 'test': 'mean(BA_within - BA_cross) > 0'}
+14:50:23 ALL DONE -> results_real/results.json

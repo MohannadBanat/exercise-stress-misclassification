@@ -1,0 +1,2 @@
+LOCKBOX_OPENED: 2026-10-09T00:27:31.954381 selected={"arch": "single", "fs": "v1_cal_ctx", "k": 45, "labels": "all", "model": "et", "rule": "global"}
+WESAD_OPENED: 2026-10-09T23:42:22 selected=refad5|state

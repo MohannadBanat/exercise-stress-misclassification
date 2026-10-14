@@ -1,0 +1,3 @@
+14:18:15 E4 start
+14:48:14 E4 done {'n_participants': 10, 'n_windows': 142, 'mean_participant_ba': 0.69375, 'pooled_ba': 0.7003134796238244, 'null_mean': 0.49759855248917745, 'null_95': 0.6823639705882352, 'X1_aer_vs_anaer_baseline_ba': 0.5444444444444444, 'X1_n': 6} {'estimate': 0.69375, 'p': 0.039696030396960305, 'n': 10, 'test': 'permutation: BA(pre-task baselines) > null'}
+14:48:14 ALL DONE -> results_real/results.json

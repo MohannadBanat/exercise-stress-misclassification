@@ -1,0 +1,7 @@
+14:00:20 E3 start
+14:09:24 E3 four full {'pooled_ba': 0.7531925353780972}
+14:12:57 E3 four acc_only {'pooled_ba': 0.7208563466741162}
+14:14:56 E3 four time_only {'pooled_ba': 0.42419060955379206}
+14:16:48 E3 four block_position {'pooled_ba': 0.5933764212009393}
+14:17:15 E3 done {'estimate': 0.0429017465436248, 'ci_low': 0.0019436048886378298, 'ci_high': 0.08207721988933338, 'p': 0.3702, 'p_wilcoxon': 0.484528984001372, 'n': 36, 'test': 'non-inferiority: mean(BA_full - BA_ACC) < 0.05'} {'estimate': 0.6160312709699881, 'ci_low': 0.56748005856937, 'ci_high': 0.6647773057251761, 'p': 0.0001, 'p_wilcoxon': 2.798403319935062e-05, 'n': 36, 'test': 'mean BA(time-only) > 0.50'}
+14:17:15 ALL DONE -> results_real/results.json

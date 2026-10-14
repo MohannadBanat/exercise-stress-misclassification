@@ -1,0 +1,18 @@
+/home/claude/wds/improve/features_v1.py:19: RuntimeWarning: Mean of empty slice
+  if len(m): D[i] = X[i] - np.nanmean(X[m], axis=0)
+00:03:51 dev 24 6174 lockbox present: False
+{
+ "spec": "0.733 (0.644\u20130.810)",
+ "sens": "0.775 (0.665\u20130.872)",
+ "far_rest": "0.443 (0.326\u20130.561)",
+ "far_ex": "0.053 (0.022\u20130.090)",
+ "far_base": "0.626 (0.499\u20130.748)",
+ "auroc": "0.917 (0.882\u20130.946)",
+ "n": 24,
+ "chosen": {
+  "{\"fs\": \"v2_z\", \"k\": 45, \"model\": \"xgb\", \"rule\": \"global\"}": 10,
+  "{\"fs\": \"v1_cal_ctx\", \"k\": 45, \"model\": \"et\", \"rule\": \"global\"}": 5,
+  "{\"fs\": \"v12_cal\", \"k\": 45, \"model\": \"xgb\", \"rule\": \"global\"}": 3
+ },
+ "label": "M2 features"
+}

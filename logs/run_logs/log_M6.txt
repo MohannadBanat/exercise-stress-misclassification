@@ -1,0 +1,39 @@
+unit tests passed
+22:21:25 participants 36 feature sets {'ref': 37, 'ad5': 37, 'ad10': 37, 'refad5': 56}
+22:22:21 done S01 selected ('refad5', 'state') {'P1': np.float64(0.199), 'P2': np.float64(0.277), 'P3': np.float64(0.01)} ref {'P1': np.float64(0.339), 'P2': np.float64(0.219), 'P3': np.float64(0.012)}
+22:22:23 done S02 selected ('refad5', 'state') {'P1': np.float64(0.184), 'P2': np.float64(0.318), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.332), 'P2': np.float64(0.2), 'P3': np.float64(0.013)}
+22:23:20 done S03 selected ('refad5', 'state') {'P1': np.float64(0.236), 'P2': np.float64(0.221), 'P3': np.float64(0.011)} ref {'P1': np.float64(0.365), 'P2': np.float64(0.167), 'P3': np.float64(0.012)}
+22:23:23 done S04 selected ('refad5', 'state') {'P1': np.float64(0.208), 'P2': np.float64(0.249), 'P3': np.float64(0.008)} ref {'P1': np.float64(0.375), 'P2': np.float64(0.155), 'P3': np.float64(0.016)}
+22:24:17 done S05 selected ('refad5', 'state') {'P1': np.float64(0.21), 'P2': np.float64(0.249), 'P3': np.float64(0.009)} ref {'P1': np.float64(0.33), 'P2': np.float64(0.161), 'P3': np.float64(0.012)}
+22:24:21 done S06 selected ('refad5', 'state') {'P1': np.float64(0.225), 'P2': np.float64(0.257), 'P3': np.float64(0.011)} ref {'P1': np.float64(0.394), 'P2': np.float64(0.161), 'P3': np.float64(0.021)}
+22:25:12 done S07 selected ('refad5', 'state') {'P1': np.float64(0.245), 'P2': np.float64(0.207), 'P3': np.float64(0.013)} ref {'P1': np.float64(0.352), 'P2': np.float64(0.175), 'P3': np.float64(0.013)}
+22:25:17 done S08 selected ('refad5', 'state') {'P1': np.float64(0.207), 'P2': np.float64(0.225), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.295), 'P2': np.float64(0.142), 'P3': np.float64(0.013)}
+22:26:08 done S09 selected ('refad5', 'state') {'P1': np.float64(0.211), 'P2': np.float64(0.276), 'P3': np.float64(0.009)} ref {'P1': np.float64(0.332), 'P2': np.float64(0.196), 'P3': np.float64(0.013)}
+22:26:11 done S10 selected ('refad5', 'state') {'P1': np.float64(0.208), 'P2': np.float64(0.24), 'P3': np.float64(0.012)} ref {'P1': np.float64(0.397), 'P2': np.float64(0.182), 'P3': np.float64(0.023)}
+22:27:01 done S11 selected ('refad5', 'state') {'P1': np.float64(0.198), 'P2': np.float64(0.27), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.363), 'P2': np.float64(0.162), 'P3': np.float64(0.013)}
+22:27:05 done S12 selected ('refad5', 'state') {'P1': np.float64(0.228), 'P2': np.float64(0.264), 'P3': np.float64(0.012)} ref {'P1': np.float64(0.368), 'P2': np.float64(0.166), 'P3': np.float64(0.014)}
+22:27:54 done S13 selected ('refad5', 'state') {'P1': np.float64(0.198), 'P2': np.float64(0.227), 'P3': np.float64(0.009)} ref {'P1': np.float64(0.306), 'P2': np.float64(0.222), 'P3': np.float64(0.015)}
+22:27:58 done S14 selected ('refad5', 'state') {'P1': np.float64(0.237), 'P2': np.float64(0.262), 'P3': np.float64(0.009)} ref {'P1': np.float64(0.419), 'P2': np.float64(0.14), 'P3': np.float64(0.017)}
+22:28:48 done S15 selected ('refad5', 'state') {'P1': np.float64(0.191), 'P2': np.float64(0.236), 'P3': np.float64(0.008)} ref {'P1': np.float64(0.315), 'P2': np.float64(0.2), 'P3': np.float64(0.016)}
+22:28:53 done S16 selected ('refad5', 'state') {'P1': np.float64(0.217), 'P2': np.float64(0.237), 'P3': np.float64(0.011)} ref {'P1': np.float64(0.316), 'P2': np.float64(0.17), 'P3': np.float64(0.01)}
+22:29:43 done S17 selected ('refad5', 'state') {'P1': np.float64(0.194), 'P2': np.float64(0.275), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.32), 'P2': np.float64(0.181), 'P3': np.float64(0.014)}
+22:29:48 done S18 selected ('refad5', 'state') {'P1': np.float64(0.195), 'P2': np.float64(0.251), 'P3': np.float64(0.011)} ref {'P1': np.float64(0.335), 'P2': np.float64(0.199), 'P3': np.float64(0.021)}
+22:30:35 done f01 selected ('refad5', 'state') {'P1': np.float64(0.292), 'P2': np.float64(0.21), 'P3': np.float64(0.011)} ref {'P1': np.float64(0.418), 'P2': np.float64(0.204), 'P3': np.float64(0.025)}
+22:30:39 done f02 selected ('refad5', 'state') {'P1': np.float64(0.185), 'P2': np.float64(0.27), 'P3': np.float64(0.009)} ref {'P1': np.float64(0.341), 'P2': np.float64(0.191), 'P3': np.float64(0.011)}
+22:31:27 done f03 selected ('refad5', 'state') {'P1': np.float64(0.165), 'P2': np.float64(0.322), 'P3': np.float64(0.004)} ref {'P1': np.float64(0.297), 'P2': np.float64(0.193), 'P3': np.float64(0.009)}
+22:31:33 done f04 selected ('refad5', 'state') {'P1': np.float64(0.204), 'P2': np.float64(0.318), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.348), 'P2': np.float64(0.224), 'P3': np.float64(0.014)}
+22:32:21 done f05 selected ('refad5', 'state') {'P1': np.float64(0.218), 'P2': np.float64(0.296), 'P3': np.float64(0.006)} ref {'P1': np.float64(0.369), 'P2': np.float64(0.182), 'P3': np.float64(0.012)}
+22:32:27 done f06 selected ('refad5', 'state') {'P1': np.float64(0.195), 'P2': np.float64(0.28), 'P3': np.float64(0.006)} ref {'P1': np.float64(0.339), 'P2': np.float64(0.195), 'P3': np.float64(0.014)}
+22:33:17 done f07 selected ('refad5', 'state') {'P1': np.float64(0.194), 'P2': np.float64(0.3), 'P3': np.float64(0.01)} ref {'P1': np.float64(0.349), 'P2': np.float64(0.197), 'P3': np.float64(0.016)}
+22:33:22 done f08 selected ('refad5', 'state') {'P1': np.float64(0.238), 'P2': np.float64(0.225), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.358), 'P2': np.float64(0.145), 'P3': np.float64(0.015)}
+22:34:12 done f09 selected ('refad5', 'state') {'P1': np.float64(0.219), 'P2': np.float64(0.22), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.344), 'P2': np.float64(0.166), 'P3': np.float64(0.014)}
+22:34:17 done f10 selected ('refad5', 'state') {'P1': np.float64(0.198), 'P2': np.float64(0.252), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.345), 'P2': np.float64(0.184), 'P3': np.float64(0.018)}
+22:35:04 done f11 selected ('refad5', 'state') {'P1': np.float64(0.212), 'P2': np.float64(0.203), 'P3': np.float64(0.009)} ref {'P1': np.float64(0.37), 'P2': np.float64(0.142), 'P3': np.float64(0.014)}
+22:35:10 done f12 selected ('refad5', 'state') {'P1': np.float64(0.207), 'P2': np.float64(0.229), 'P3': np.float64(0.01)} ref {'P1': np.float64(0.343), 'P2': np.float64(0.204), 'P3': np.float64(0.018)}
+22:35:57 done f13 selected ('refad5', 'state') {'P1': np.float64(0.206), 'P2': np.float64(0.292), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.399), 'P2': np.float64(0.167), 'P3': np.float64(0.015)}
+22:36:04 done f14 selected ('refad5', 'state') {'P1': np.float64(0.204), 'P2': np.float64(0.278), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.353), 'P2': np.float64(0.176), 'P3': np.float64(0.013)}
+22:36:51 done f15 selected ('refad5', 'state') {'P1': np.float64(0.222), 'P2': np.float64(0.222), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.369), 'P2': np.float64(0.126), 'P3': np.float64(0.014)}
+22:36:57 done f16 selected ('refad5', 'state') {'P1': np.float64(0.227), 'P2': np.float64(0.219), 'P3': np.float64(0.011)} ref {'P1': np.float64(0.367), 'P2': np.float64(0.136), 'P3': np.float64(0.015)}
+22:37:42 done f17 selected ('refad5', 'state') {'P1': np.float64(0.234), 'P2': np.float64(0.236), 'P3': np.float64(0.015)} ref {'P1': np.float64(0.367), 'P2': np.float64(0.196), 'P3': np.float64(0.014)}
+22:37:49 done f18 selected ('refad5', 'state') {'P1': np.float64(0.193), 'P2': np.float64(0.263), 'P3': np.float64(0.007)} ref {'P1': np.float64(0.339), 'P2': np.float64(0.196), 'P3': np.float64(0.018)}
+22:37:50 all folds done; run summarize_m6.py

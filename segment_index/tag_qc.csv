@@ -1,0 +1,101 @@
+protocol,session,version,n_tags,recording_s,pre_first_tag_s,non_monotonic_tags,note
+STRESS,S01,V1,13,2224.5,371.0,0,
+STRESS,S02,V1,13,3096.0,1.0,0,
+STRESS,S03,V1,13,1585.5,278.0,0,
+STRESS,S04,V1,13,1732.5,181.0,0,
+STRESS,S05,V1,13,1581.0,196.0,0,
+STRESS,S06,V1,13,1443.0,55.0,0,
+STRESS,S07,V1,13,1428.0,115.0,0,
+STRESS,S08,V1,13,1428.0,44.0,0,
+STRESS,S09,V1,13,1447.5,154.0,0,
+STRESS,S10,V1,13,1657.5,67.0,0,
+STRESS,S11,V1,13,1401.0,24.0,0,
+STRESS,S12,V1,13,1603.5,105.0,0,
+STRESS,S13,V1,13,1623.0,173.0,0,
+STRESS,S14,V1,13,1686.0,202.0,0,
+STRESS,S15,V1,13,1633.5,198.0,0,
+STRESS,S16,V1,13,1663.5,330.0,0,
+STRESS,S17,V1,13,1611.0,302.0,0,
+STRESS,S18,V1,13,1630.5,237.0,0,
+STRESS,f01,V2,9,3252.0,287.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f02,V2,9,2976.0,851.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f03,V2,9,3597.0,785.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f04,V2,9,3648.0,1009.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f05,V2,9,4593.0,2172.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f06,V2,9,3172.5,587.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f07,V2,9,3456.0,783.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f08,V2,9,3181.5,523.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f09,V2,9,3232.5,745.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f10,V2,9,2734.5,229.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f11,V2,9,3121.5,720.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f12,V2,9,4809.0,2337.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f13,V2,9,3865.5,1094.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f14_a,V2,0,703.5,,0,no tags
+STRESS,f14_b,V2,9,2170.5,142.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f15,V2,9,4219.5,2010.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f16,V2,9,3238.5,861.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f17,V2,9,3439.5,728.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+STRESS,f18,V2,9,3138.0,975.0,0,baseline = last 180 s before tag 1 (baseline start not tagged)
+AEROBIC,S01,V1,12,2040.0,179.0,0,
+AEROBIC,S02,V1,12,2037.0,179.0,0,
+AEROBIC,S03,V1,7,1437.0,177.0,0,incomplete protocol: last tagged stage 85 rpm
+AEROBIC,S04,V1,12,2040.0,183.0,0,
+AEROBIC,S05,V1,12,1977.0,179.0,0,
+AEROBIC,S06,V1,12,2065.5,181.0,0,
+AEROBIC,S07,V1,9,1678.5,202.0,0,incomplete protocol: last tagged stage 95 rpm
+AEROBIC,S08,V1,12,2029.5,177.0,0,
+AEROBIC,S09,V1,12,2037.0,183.0,0,
+AEROBIC,S10,V1,12,2037.0,179.0,0,
+AEROBIC,S11_a,V1,10,1618.5,176.0,0,S11_a: stages to 105 rpm; continues in S11_b
+AEROBIC,S11_b,V1,1,298.5,179.0,0,second file of S11 after connection loss
+AEROBIC,S13,V1,12,2086.5,219.0,0,
+AEROBIC,S14,V1,12,2172.0,181.0,0,
+AEROBIC,S15,V1,12,2037.0,184.0,0,
+AEROBIC,S16,V1,12,2043.0,182.0,0,
+AEROBIC,S17,V1,12,2037.0,172.0,0,
+AEROBIC,S18,V1,12,2040.0,175.0,0,
+AEROBIC,f01,V2,8,2698.5,686.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f02,V2,8,1755.0,125.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f03,V2,8,2694.0,680.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f04,V2,8,2518.5,726.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f05,V2,8,3078.0,1592.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f06,V2,8,2709.0,1466.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f07,V2,8,2331.0,1106.0,1,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f08,V2,8,2389.5,796.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f09,V2,8,2592.0,651.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f10,V2,8,2608.5,708.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f11,V2,8,1911.0,274.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f12,V2,8,2230.5,432.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+AEROBIC,f13,V2,8,2596.5,977.0,0,baseline/warm-up boundary not tagged: warm-up = 135 s before tag 1 (verify with ACC)
+ANAEROBIC,S01,V1,7,1144.5,181.0,0,
+ANAEROBIC,S02,V1,7,1123.5,183.0,0,
+ANAEROBIC,S03,V1,7,1257.0,202.0,0,
+ANAEROBIC,S04,V1,7,1159.5,193.0,0,
+ANAEROBIC,S05,V1,7,1134.0,182.0,0,
+ANAEROBIC,S06,V1,5,846.0,181.0,0,incomplete protocol: last sprint missing
+ANAEROBIC,S07,V1,7,1206.0,188.0,0,
+ANAEROBIC,S08,V1,7,1198.5,250.0,0,
+ANAEROBIC,S09,V1,7,1147.5,177.0,0,
+ANAEROBIC,S10,V1,7,1149.0,206.0,0,
+ANAEROBIC,S11,V1,7,1195.5,175.0,0,
+ANAEROBIC,S12,V1,7,1134.0,192.0,0,
+ANAEROBIC,S13,V1,7,1147.5,183.0,0,
+ANAEROBIC,S14,V1,7,1126.5,180.0,0,
+ANAEROBIC,S15,V1,7,1167.0,182.0,0,
+ANAEROBIC,S16_a,V1,4,588.0,189.0,0,connection loss; continues in S16_b
+ANAEROBIC,S16_b,V1,5,675.0,46.0,0,4 sprints in a V1 session (protocol had 3)
+ANAEROBIC,S17,V1,7,1173.0,178.0,0,
+ANAEROBIC,S18,V1,7,1152.0,179.0,0,
+ANAEROBIC,f01,V2,11,2617.5,1093.0,0,baseline = last 180 s of 1093 s pre-warm-up period
+ANAEROBIC,f02,V2,11,2392.5,678.0,0,baseline = last 180 s of 678 s pre-warm-up period
+ANAEROBIC,f03,V2,11,2941.5,1446.0,0,baseline = last 180 s of 1446 s pre-warm-up period
+ANAEROBIC,f04,V2,11,1450.5,1.0,0,baseline = last 180 s of 1 s pre-warm-up period
+ANAEROBIC,f05,V2,11,2358.0,793.0,0,baseline = last 180 s of 793 s pre-warm-up period
+ANAEROBIC,f06,V2,11,1783.5,249.0,0,baseline = last 180 s of 249 s pre-warm-up period
+ANAEROBIC,f07,V2,11,2397.0,842.0,0,baseline = last 180 s of 842 s pre-warm-up period
+ANAEROBIC,f08,V2,11,2086.5,290.0,0,baseline = last 180 s of 290 s pre-warm-up period
+ANAEROBIC,f09,V2,11,1789.5,281.0,0,baseline = last 180 s of 281 s pre-warm-up period
+ANAEROBIC,f10,V2,11,1413.0,93.0,0,baseline = last 180 s of 93 s pre-warm-up period
+ANAEROBIC,f11,V2,11,2748.0,884.0,0,baseline = last 180 s of 884 s pre-warm-up period
+ANAEROBIC,f12,V2,11,2499.0,711.0,0,baseline = last 180 s of 711 s pre-warm-up period
+ANAEROBIC,f13,V2,11,2835.0,878.0,0,baseline = last 180 s of 878 s pre-warm-up period

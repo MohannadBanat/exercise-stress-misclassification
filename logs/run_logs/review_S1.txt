@@ -1,0 +1,7 @@
+02:08:25 S1 outer scores reproduce M5
+02:08:25 S1 positions {'baseline': 0.5, 'rest_first_third': 0.44, 'rest_middle_third': 0.28, 'rest_last_third': 0.34, 'rest_nonbaseline': 0.36, 'stress': 0.8, 'exercise': 0.01}
+02:08:36 S1 auroc {'det_all': [0.827, 0.761, 0.885], 'time_all': [0.694, 0.635, 0.747], 'diff_all': [0.133, 0.038, 0.222], 'det_nobase': [0.85, 0.785, 0.906], 'time_nobase': [0.69, 0.618, 0.756], 'diff_nobase': [0.16, 0.057, 0.262], 'det_matched': [0.839, 0.779, 0.891], 'time_matched': [0.667, 0.606, 0.722], 'diff_matched': [0.172, 0.082, 0.261]}
+02:08:42 S1 null reference False {'observed': 0.9074074074074074, 'null_mean': 0.6993981481481482, 'null_p2_5': 0.6388888888888888, 'null_p97_5': 0.7592592592592593, 'p_upper': 0.000999000999000999}
+02:08:47 S1 null reference True {'observed': 0.5370370370370371, 'null_mean': 0.370537037037037, 'null_p2_5': 0.30532407407407414, 'null_p97_5': 0.4444444444444444, 'p_upper': 0.000999000999000999}
+02:08:52 S1 null selected False {'observed': 0.9537037037037037, 'null_mean': 0.8107592592592594, 'null_p2_5': 0.7590277777777779, 'null_p97_5': 0.8613425925925924, 'p_upper': 0.000999000999000999}
+02:08:58 S1 null selected True {'observed': 0.5, 'null_mean': 0.36217592592592585, 'null_p2_5': 0.3055555555555556, 'null_p97_5': 0.42592592592592593, 'p_upper': 0.000999000999000999}

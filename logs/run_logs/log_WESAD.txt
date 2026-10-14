@@ -1,0 +1,15 @@
+23:42:22 selected on all 36: ('refad5', 'state') {'P1': np.float64(0.218), 'P2': np.float64(0.253), 'P3': np.float64(0.009)} reference {'P1': np.float64(0.348), 'P2': np.float64(0.198), 'P3': np.float64(0.019)}
+selected config refad5|state
+P1            sel 0.111 (0.064 to 0.162)  ref 0.192 (0.113 to 0.282)  diff -0.081 (-0.126 to -0.044)
+det_st        sel 0.400 (0.133 to 0.667)  ref 0.533 (0.267 to 0.800)  diff -0.133 (-0.333 to 0.000)
+null_st       sel 0.577 (0.405 to 0.741)  ref 0.653 (0.500 to 0.803)  diff -0.076 (-0.163 to 0.017)
+excess_st     sel -0.177 (-0.381 to 0.032)  ref -0.119 (-0.338 to 0.097)  diff -0.057 (-0.266 to 0.118)
+det_ov        sel 0.400 (0.133 to 0.667)  ref 0.533 (0.267 to 0.800)  diff -0.133 (-0.333 to 0.000)
+null_ov       sel 0.577 (0.405 to 0.741)  ref 0.653 (0.500 to 0.803)  diff -0.076 (-0.163 to 0.017)
+baseline      sel 0.123 (0.061 to 0.189)  ref 0.221 (0.118 to 0.326)  diff -0.098 (-0.156 to -0.044)
+amusement     sel 0.159 (0.058 to 0.274)  ref 0.271 (0.126 to 0.427)  diff -0.112 (-0.236 to -0.003)
+meditation    sel 0.072 (0.019 to 0.147)  ref 0.111 (0.019 to 0.248)  diff -0.039 (-0.101 to 0.004)
+tsst_windows  sel 0.078 (0.020 to 0.152)  ref 0.208 (0.080 to 0.351)  diff -0.130 (-0.221 to -0.047)
+fa_h_rest     sel 4.494 (2.793 to 6.203)  ref 4.601 (3.125 to 6.187)  diff -0.107 (-1.177 to 0.967)
+auroc         sel 0.403 (0.302 to 0.507)  ref 0.506 (0.387 to 0.616)  diff -0.103 (-0.149 to -0.056)
+REPLICATION: partly replicated {'P1_diff_ci_below_0': True, 'selected_strict_excess_ci_above_0': False}

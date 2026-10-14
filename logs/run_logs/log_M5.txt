@@ -1,0 +1,39 @@
+unit tests passed
+01:37:14 participants 36 episodes 108
+01:37:27 done S01 selected (0.9, 2) inner {'sens': np.float64(0.905), 'fa_rest': np.float64(2.042), 'fa_ex': np.float64(1.341), 'fa_comb': np.float64(1.691), 'fa_base': np.float64(20.733)}
+01:37:27 done S02 selected (0.9, 1) inner {'sens': np.float64(0.981), 'fa_rest': np.float64(1.423), 'fa_ex': np.float64(1.663), 'fa_comb': np.float64(1.543), 'fa_base': np.float64(18.031)}
+01:37:37 done S04 selected (0.9, 1) inner {'sens': np.float64(0.962), 'fa_rest': np.float64(1.223), 'fa_ex': np.float64(1.619), 'fa_comb': np.float64(1.421), 'fa_base': np.float64(18.031)}
+01:37:37 done S03 selected (0.9, 1) inner {'sens': np.float64(0.943), 'fa_rest': np.float64(1.015), 'fa_ex': np.float64(1.61), 'fa_comb': np.float64(1.313), 'fa_base': np.float64(18.031)}
+01:37:47 done S05 selected (0.9, 2) inner {'sens': np.float64(0.914), 'fa_rest': np.float64(1.422), 'fa_ex': np.float64(1.524), 'fa_comb': np.float64(1.473), 'fa_base': np.float64(21.14)}
+01:37:47 done S06 selected (0.9, 1) inner {'sens': np.float64(0.981), 'fa_rest': np.float64(1.323), 'fa_ex': np.float64(1.795), 'fa_comb': np.float64(1.559), 'fa_base': np.float64(18.031)}
+01:37:57 done S07 selected (0.9, 1) inner {'sens': np.float64(0.952), 'fa_rest': np.float64(1.219), 'fa_ex': np.float64(1.659), 'fa_comb': np.float64(1.439), 'fa_base': np.float64(17.938)}
+01:37:57 done S08 selected (0.9, 1) inner {'sens': np.float64(0.981), 'fa_rest': np.float64(1.726), 'fa_ex': np.float64(1.341), 'fa_comb': np.float64(1.533), 'fa_base': np.float64(17.984)}
+01:38:07 done S10 selected (0.9, 1) inner {'sens': np.float64(0.971), 'fa_rest': np.float64(1.429), 'fa_ex': np.float64(1.387), 'fa_comb': np.float64(1.408), 'fa_base': np.float64(18.031)}
+01:38:07 done S09 selected (0.9, 1) inner {'sens': np.float64(0.962), 'fa_rest': np.float64(1.319), 'fa_ex': np.float64(1.618), 'fa_comb': np.float64(1.468), 'fa_base': np.float64(18.031)}
+01:38:17 done S12 selected (0.9, 1) inner {'sens': np.float64(0.962), 'fa_rest': np.float64(0.611), 'fa_ex': np.float64(1.627), 'fa_comb': np.float64(1.119), 'fa_base': np.float64(18.078)}
+01:38:17 done S11 selected (0.9, 1) inner {'sens': np.float64(0.971), 'fa_rest': np.float64(1.116), 'fa_ex': np.float64(1.615), 'fa_comb': np.float64(1.365), 'fa_base': np.float64(18.605)}
+01:38:27 done S13 selected (0.9, 1) inner {'sens': np.float64(0.971), 'fa_rest': np.float64(1.426), 'fa_ex': np.float64(1.48), 'fa_comb': np.float64(1.453), 'fa_base': np.float64(17.455)}
+01:38:27 done S14 selected (0.9, 1) inner {'sens': np.float64(0.99), 'fa_rest': np.float64(0.713), 'fa_ex': np.float64(1.991), 'fa_comb': np.float64(1.352), 'fa_base': np.float64(17.5)}
+01:38:37 done S15 selected (0.8, 1) inner {'sens': np.float64(0.914), 'fa_rest': np.float64(2.546), 'fa_ex': np.float64(0.601), 'fa_comb': np.float64(1.573), 'fa_base': np.float64(16.208)}
+01:38:37 done S16 selected (0.9, 1) inner {'sens': np.float64(0.971), 'fa_rest': np.float64(1.423), 'fa_ex': np.float64(1.248), 'fa_comb': np.float64(1.335), 'fa_base': np.float64(18.031)}
+01:38:46 done S17 selected (0.9, 1) inner {'sens': np.float64(0.99), 'fa_rest': np.float64(1.118), 'fa_ex': np.float64(1.433), 'fa_comb': np.float64(1.275), 'fa_base': np.float64(18.605)}
+01:38:47 done S18 selected (0.9, 1) inner {'sens': np.float64(0.952), 'fa_rest': np.float64(1.424), 'fa_ex': np.float64(2.081), 'fa_comb': np.float64(1.752), 'fa_base': np.float64(17.409)}
+01:38:56 done f01 selected (0.8, 1) inner {'sens': np.float64(0.933), 'fa_rest': np.float64(2.117), 'fa_ex': np.float64(0.785), 'fa_comb': np.float64(1.451), 'fa_base': np.float64(17.409)}
+01:38:56 done f02 selected (0.9, 2) inner {'sens': np.float64(0.914), 'fa_rest': np.float64(1.552), 'fa_ex': np.float64(1.061), 'fa_comb': np.float64(1.307), 'fa_base': np.float64(20.518)}
+01:39:06 done f03 selected (0.9, 1) inner {'sens': np.float64(0.962), 'fa_rest': np.float64(1.588), 'fa_ex': np.float64(1.339), 'fa_comb': np.float64(1.463), 'fa_base': np.float64(17.409)}
+01:39:07 done f04 selected (0.9, 2) inner {'sens': np.float64(0.924), 'fa_rest': np.float64(1.887), 'fa_ex': np.float64(1.155), 'fa_comb': np.float64(1.521), 'fa_base': np.float64(19.896)}
+01:39:16 done f05 selected (0.9, 1) inner {'sens': np.float64(0.971), 'fa_rest': np.float64(1.153), 'fa_ex': np.float64(1.379), 'fa_comb': np.float64(1.266), 'fa_base': np.float64(18.031)}
+01:39:17 done f06 selected (0.9, 1) inner {'sens': np.float64(0.99), 'fa_rest': np.float64(1.575), 'fa_ex': np.float64(1.744), 'fa_comb': np.float64(1.659), 'fa_base': np.float64(18.653)}
+01:39:26 done f07 selected (0.9, 1) inner {'sens': np.float64(0.962), 'fa_rest': np.float64(1.575), 'fa_ex': np.float64(1.285), 'fa_comb': np.float64(1.43), 'fa_base': np.float64(18.653)}
+01:39:27 done f08 selected (0.9, 2) inner {'sens': np.float64(0.933), 'fa_rest': np.float64(1.775), 'fa_ex': np.float64(1.337), 'fa_comb': np.float64(1.556), 'fa_base': np.float64(20.518)}
+01:39:35 done f09 selected (0.9, 1) inner {'sens': np.float64(0.971), 'fa_rest': np.float64(1.465), 'fa_ex': np.float64(1.297), 'fa_comb': np.float64(1.381), 'fa_base': np.float64(18.653)}
+01:39:37 done f10 selected (0.9, 1) inner {'sens': np.float64(0.971), 'fa_rest': np.float64(1.152), 'fa_ex': np.float64(1.988), 'fa_comb': np.float64(1.57), 'fa_base': np.float64(17.409)}
+01:39:45 done f11 selected (0.9, 1) inner {'sens': np.float64(0.962), 'fa_rest': np.float64(0.838), 'fa_ex': np.float64(1.387), 'fa_comb': np.float64(1.112), 'fa_base': np.float64(18.031)}
+01:39:46 done f12 selected (0.9, 1) inner {'sens': np.float64(0.99), 'fa_rest': np.float64(0.734), 'fa_ex': np.float64(1.848), 'fa_comb': np.float64(1.291), 'fa_base': np.float64(18.031)}
+01:39:55 done f13 selected (0.8, 1) inner {'sens': np.float64(0.905), 'fa_rest': np.float64(1.899), 'fa_ex': np.float64(0.742), 'fa_comb': np.float64(1.321), 'fa_base': np.float64(17.409)}
+01:39:56 done f14 selected (0.9, 1) inner {'sens': np.float64(0.943), 'fa_rest': np.float64(1.246), 'fa_ex': np.float64(1.429), 'fa_comb': np.float64(1.338), 'fa_base': np.float64(17.892)}
+01:40:04 done f15 selected (0.9, 1) inner {'sens': np.float64(0.952), 'fa_rest': np.float64(1.042), 'fa_ex': np.float64(1.384), 'fa_comb': np.float64(1.213), 'fa_base': np.float64(18.653)}
+01:40:06 done f16 selected (0.9, 1) inner {'sens': np.float64(0.943), 'fa_rest': np.float64(0.941), 'fa_ex': np.float64(1.518), 'fa_comb': np.float64(1.23), 'fa_base': np.float64(18.653)}
+01:40:15 done f17 selected (0.9, 2) inner {'sens': np.float64(0.905), 'fa_rest': np.float64(1.257), 'fa_ex': np.float64(1.161), 'fa_comb': np.float64(1.209), 'fa_base': np.float64(21.14)}
+01:40:16 done f18 selected (0.9, 1) inner {'sens': np.float64(0.933), 'fa_rest': np.float64(1.769), 'fa_ex': np.float64(1.295), 'fa_comb': np.float64(1.532), 'fa_base': np.float64(18.653)}
+01:40:17 all folds done; run summarize_m5.py

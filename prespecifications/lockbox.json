@@ -1,0 +1,20 @@
+{
+ "lockbox": [
+  "S05",
+  "S07",
+  "S09",
+  "S12",
+  "S16",
+  "S17",
+  "f04",
+  "f05",
+  "f12",
+  "f13",
+  "f17",
+  "f18"
+ ],
+ "sha256": "13999c34317c8dc1cf015c2aa16e0764557d9c741f3959d89fccf638dd7e8664",
+ "seed": 20261009,
+ "sealed": "2026-10-09",
+ "rule": "6 of 18 V1, 4 of 13 V2 with exercise, 2 of 5 V2 stress-only; drawn once with the seed above"
+}

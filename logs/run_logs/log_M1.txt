@@ -1,0 +1,18 @@
+/home/claude/wds/improve/features_v1.py:19: RuntimeWarning: Mean of empty slice
+  if len(m): D[i] = X[i] - np.nanmean(X[m], axis=0)
+23:53:05 dev participants 24 windows 6174 lockbox present: False
+{
+ "spec": "0.732 (0.672\u20130.786)",
+ "sens": "0.795 (0.693\u20130.886)",
+ "far_rest": "0.465 (0.365\u20130.566)",
+ "far_ex": "0.043 (0.015\u20130.077)",
+ "far_base": "0.692 (0.585\u20130.790)",
+ "auroc": "0.918 (0.875\u20130.951)",
+ "n": 24,
+ "chosen": {
+  "{\"fs\": \"cal_ctx\", \"k\": 45, \"model\": \"et\", \"rule\": \"global\"}": 17,
+  "{\"fs\": \"cal_ctx\", \"k\": 45, \"model\": \"xgb\", \"rule\": \"global\"}": 3,
+  "{\"fs\": \"cal_ctx\", \"k\": 15, \"model\": \"et\", \"rule\": \"global\"}": 3
+ },
+ "label": "M1 baseline (exploratory pipeline space)"
+}

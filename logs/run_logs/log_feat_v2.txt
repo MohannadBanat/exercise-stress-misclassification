@@ -1,0 +1,247 @@
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+/usr/local/lib/python3.13/dist-packages/neurokit2/eda/eda_clean.py:102: NeuroKitWarning: EDA signal is sampled at very low frequency. Skipping filtering.
+  warn(
+(9303, 48) {'cvxeda': 9303}
+e2_ton_mean_30      0.010
+e2_ton_slope_30     0.010
+e2_scr_rate_30      0.010
+e2_scr_amp_30       0.010
+e2_pha_auc_30       0.010
+p2_quality_30       0.015
+p2_cov_30           0.015
+p2_hr_30            0.202
+p2_rmssd_30         0.524
+p2_sdnn_30          0.524
+p2_pnn50_30         0.524
+t2_mean_30          0.038
+t2_slope_30         0.038
+a2_sd_30            0.000
+a2_energy_30        0.000
+e2_ton_mean_60      0.011
+e2_ton_slope_60     0.011
+e2_scr_rate_60      0.011
+e2_scr_amp_60       0.011
+e2_pha_auc_60       0.011
+p2_quality_60       0.015
+p2_cov_60           0.015
+p2_hr_60            0.182
+p2_rmssd_60         0.534
+p2_sdnn_60          0.534
+p2_pnn50_60         0.534
+t2_mean_60          0.038
+t2_slope_60         0.038
+a2_sd_60            0.000
+a2_energy_60        0.000
+e2_ton_mean_120     0.009
+e2_ton_slope_120    0.009
+e2_scr_rate_120     0.009
+e2_scr_amp_120      0.009
+e2_pha_auc_120      0.009
+p2_quality_120      0.015
+p2_cov_120          0.015
+p2_hr_120           0.160
+p2_rmssd_120        0.559
+p2_sdnn_120         0.559
+p2_pnn50_120        0.559
+t2_mean_120         0.038
+t2_slope_120        0.038
+a2_sd_120           0.000
+a2_energy_120       0.000
+p2_lnhf_120         0.037
+p2_lfhf_120         0.037
+eda_method          0.000

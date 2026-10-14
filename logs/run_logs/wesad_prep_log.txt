@@ -1,0 +1,29 @@
+S3 {'subject': 'S3', 'e4_start_unix': np.float64(1495624128.0), 'eda_fs': np.float64(4.0), 'offset_samples': 4362, 'offset_s': np.float64(1090.5), 'n_candidates': 1, 'pkl_eda_n': 25972, 'matched': 25972, 'raw_eda_n': 30894, 'label_n': 4545100, 'label_dur_s': 6493.0, 'eda_dur_s': 6493.0}
+DONE S3
+S4 {'subject': 'S4', 'e4_start_unix': np.float64(1497342820.0), 'eda_fs': np.float64(4.0), 'offset_samples': 5902, 'offset_s': np.float64(1475.5), 'n_candidates': 1, 'pkl_eda_n': 25692, 'matched': 25692, 'raw_eda_n': 31998, 'label_n': 4496100, 'label_dur_s': 6423.0, 'eda_dur_s': 6423.0}
+DONE S4
+S5 {'subject': 'S5', 'e4_start_unix': np.float64(1497356533.0), 'eda_fs': np.float64(4.0), 'offset_samples': 5017, 'offset_s': np.float64(1254.25), 'n_candidates': 1, 'pkl_eda_n': 25032, 'matched': 25032, 'raw_eda_n': 30204, 'label_n': 4380600, 'label_dur_s': 6258.0, 'eda_dur_s': 6258.0}
+DONE S5
+S6 {'subject': 'S6', 'e4_start_unix': np.float64(1497439238.0), 'eda_fs': np.float64(4.0), 'offset_samples': 4826, 'offset_s': np.float64(1206.5), 'n_candidates': 1, 'pkl_eda_n': 28284, 'matched': 28284, 'raw_eda_n': 33294, 'label_n': 4949700, 'label_dur_s': 7071.0, 'eda_dur_s': 7071.0}
+DONE S6
+S7 {'subject': 'S7', 'e4_start_unix': np.float64(1499339464.0), 'eda_fs': np.float64(4.0), 'offset_samples': 4716, 'offset_s': np.float64(1179.0), 'n_candidates': 1, 'pkl_eda_n': 20952, 'matched': 20952, 'raw_eda_n': 25974, 'label_n': 3666600, 'label_dur_s': 5238.0, 'eda_dur_s': 5238.0}
+DONE S7
+S8 {'subject': 'S8', 'e4_start_unix': np.float64(1499685040.0), 'eda_fs': np.float64(4.0), 'offset_samples': 4514, 'offset_s': np.float64(1128.5), 'n_candidates': 1, 'pkl_eda_n': 21864, 'matched': 21864, 'raw_eda_n': 26550, 'label_n': 3826200, 'label_dur_s': 5466.0, 'eda_dur_s': 5466.0}
+DONE S8
+S9 {'subject': 'S9', 'e4_start_unix': np.float64(1499771441.0), 'eda_fs': np.float64(4.0), 'offset_samples': 3846, 'offset_s': np.float64(961.5), 'n_candidates': 1, 'pkl_eda_n': 20892, 'matched': 20892, 'raw_eda_n': 24912, 'label_n': 3656100, 'label_dur_s': 5223.0, 'eda_dur_s': 5223.0}
+DONE S9
+S10 {'subject': 'S10', 'e4_start_unix': np.float64(1500966308.0), 'eda_fs': np.float64(4.0), 'offset_samples': 5123, 'offset_s': np.float64(1280.75), 'n_candidates': 1, 'pkl_eda_n': 21984, 'matched': 21984, 'raw_eda_n': 27288, 'label_n': 3847200, 'label_dur_s': 5496.0, 'eda_dur_s': 5496.0}
+DONE S10
+S11 {'subject': 'S11', 'e4_start_unix': np.float64(1500981259.0), 'eda_fs': np.float64(4.0), 'offset_samples': 4752, 'offset_s': np.float64(1188.0), 'n_candidates': 1, 'pkl_eda_n': 20932, 'matched': 20932, 'raw_eda_n': 25842, 'label_n': 3663100, 'label_dur_s': 5233.0, 'eda_dur_s': 5233.0}
+DONE S11
+S13 {'subject': 'S13', 'e4_start_unix': np.float64(1502190787.0), 'eda_fs': np.float64(4.0), 'offset_samples': 5050, 'offset_s': np.float64(1262.5), 'n_candidates': 1, 'pkl_eda_n': 22148, 'matched': 22148, 'raw_eda_n': 27450, 'label_n': 3875900, 'label_dur_s': 5537.0, 'eda_dur_s': 5537.0}
+DONE S13
+S14 {'subject': 'S14', 'e4_start_unix': np.float64(1502262571.0), 'eda_fs': np.float64(4.0), 'offset_samples': 5573, 'offset_s': np.float64(1393.25), 'n_candidates': 1, 'pkl_eda_n': 22192, 'matched': 22192, 'raw_eda_n': 27942, 'label_n': 3883600, 'label_dur_s': 5548.0, 'eda_dur_s': 5548.0}
+DONE S14
+S15 {'subject': 'S15', 'e4_start_unix': np.float64(1502349056.0), 'eda_fs': np.float64(4.0), 'offset_samples': 5229, 'offset_s': np.float64(1307.25), 'n_candidates': 1, 'pkl_eda_n': 21008, 'matched': 21008, 'raw_eda_n': 26568, 'label_n': 3676400, 'label_dur_s': 5252.0, 'eda_dur_s': 5252.0}
+DONE S15
+S16 {'subject': 'S16', 'e4_start_unix': np.float64(1502366365.0), 'eda_fs': np.float64(4.0), 'offset_samples': 5544, 'offset_s': np.float64(1386.0), 'n_candidates': 1, 'pkl_eda_n': 22524, 'matched': 22524, 'raw_eda_n': 28428, 'label_n': 3941700, 'label_dur_s': 5631.0, 'eda_dur_s': 5631.0}
+DONE S16
+S17 {'subject': 'S17', 'e4_start_unix': np.float64(1502435962.0), 'eda_fs': np.float64(4.0), 'offset_samples': 5111, 'offset_s': np.float64(1277.75), 'n_candidates': 1, 'pkl_eda_n': 23680, 'matched': 23680, 'raw_eda_n': 28926, 'label_n': 4144000, 'label_dur_s': 5920.0, 'eda_dur_s': 5920.0}
+DONE S17
+ALLDONE

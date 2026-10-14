@@ -1,0 +1,69 @@
+{
+ "tau": 0.24674261406013556,
+ "far_by_restpart": {
+  "first third": 0.419,
+  "middle third": 0.319,
+  "last third": 0.349
+ },
+ "far_baseline_vs_rest": {
+  "baseline": 0.622,
+  "post-task rest": 0.363
+ },
+ "far_rest_by_cohort": {
+  "V1": 0.515,
+  "V2": 0.346
+ },
+ "sens_by_task": {
+  "opposite_opinion": 0.76,
+  "real_opinion": 0.708,
+  "stroop": 0.865,
+  "subtract": 0.615,
+  "tmct": 0.812
+ },
+ "n_windows_by_task": {
+  "opposite_opinion": 25,
+  "real_opinion": 24,
+  "stroop": 74,
+  "subtract": 26,
+  "tmct": 309
+ },
+ "auroc_stress_vs_baseline": [
+  0.663,
+  24
+ ],
+ "auroc_stress_vs_early_rest": [
+  0.81,
+  24
+ ],
+ "auroc_stress_vs_late_rest": [
+  0.849,
+  24
+ ],
+ "auroc_stress_vs_all_rest": [
+  0.802,
+  24
+ ],
+ "within_person_spearman_score_vs_selfreport": [
+  0.366,
+  23
+ ],
+ "rest_far_by_selfreport": {
+  "rest blocks rated above own mean": 0.498,
+  "at or below own mean": 0.45
+ },
+ "stress_sens_by_selfreport": {
+  "stress blocks rated above own mean": 0.762,
+  "at or below own mean": 0.723
+ },
+ "sens_by_seconds_into_task": {
+  "0-14 s": 0.741,
+  "15-44 s": 0.84,
+  "45-89 s": 0.83,
+  "90+ s": 0.805
+ },
+ "participant_far_rest_quartiles": [
+  0.21,
+  0.4,
+  0.64
+ ]
+}

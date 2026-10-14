@@ -1,0 +1,32 @@
+{
+ "training_stress": {
+  "cal_eda_tonic_mean": 0.14,
+  "cal_hr_mean": 4.3,
+  "cal_bvp_pr_mean": 5.46,
+  "cal_eda_scr_count": 1.39
+ },
+ "training_rest": {
+  "cal_eda_tonic_mean": 0.06,
+  "cal_hr_mean": -3.06,
+  "cal_bvp_pr_mean": -3.66,
+  "cal_eda_scr_count": -0.18
+ },
+ "training_exercise": {
+  "cal_eda_tonic_mean": 2.59,
+  "cal_hr_mean": 16.21,
+  "cal_bvp_pr_mean": 28.8,
+  "cal_eda_scr_count": 6.33
+ },
+ "wesad_tsst": {
+  "cal_eda_tonic_mean": 1.09,
+  "cal_hr_mean": 9.2,
+  "cal_bvp_pr_mean": 17.25,
+  "cal_eda_scr_count": 3.6
+ },
+ "wesad_rest": {
+  "cal_eda_tonic_mean": 0.02,
+  "cal_hr_mean": -0.91,
+  "cal_bvp_pr_mean": -2.39,
+  "cal_eda_scr_count": -0.94
+ }
+}
