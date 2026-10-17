@@ -3,6 +3,14 @@ message: "If you use this software, please cite it as below."
 title: "exercise-stress-misclassification: code for Revealing Exercise-Induced Misclassification in Wearable Stress Detection for Automated Insulin Delivery"
 version: 1.0.0
 date-released: 2026-10-17
+doi: 10.5281/zenodo.23438148
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23438148
+    description: "Concept DOI: all versions; resolves to the latest"
+  - type: doi
+    value: 10.5281/zenodo.23438149
+    description: "Version DOI: v1.0.0, the version cited in the Sensors submission"
 license: MIT
 repository-code: "https://github.com/MohannadBanat/exercise-stress-misclassification"
 authors:

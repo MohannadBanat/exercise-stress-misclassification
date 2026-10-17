@@ -1,10 +1,16 @@
 # exercise-stress-misclassification
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23438148.svg)](https://doi.org/10.5281/zenodo.23438148)
+
 Code, segment index and pre-specified analysis rules for:
 
 > Abu Owida, H.; Alsarhan, A.; Banat, M.; Al-Fraihat, D.; Algarni, A. **Revealing Exercise-Induced Misclassification in Wearable Stress Detection for Automated Insulin Delivery.** *Sensors* (submitted, 2026).
 
 The study re-evaluates stress and exercise recognition from Empatica E4 wrist signals under a pre-registered plan, measures how often a stress detector fires during structured exercise, and tests an exercise-robust detector on a sealed test set and on an external dataset (WESAD).
+
+## Archived version
+
+The version used in the paper (v1.0.0) is archived on Zenodo: https://doi.org/10.5281/zenodo.23438149. The DOI https://doi.org/10.5281/zenodo.23438148 always resolves to the latest version.
 
 ## Pre-registration
 
