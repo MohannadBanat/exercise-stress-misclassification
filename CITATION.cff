@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "exercise-stress-misclassification: code for Revealing Exercise-Induced Misclassification in Wearable Stress Detection for Automated Insulin Delivery"
 version: 1.0.0
-date-released: 2026-10-14
+date-released: 2026-10-17
 license: MIT
-repository-code: "https://github.com/mohannadbanat-cmd/exercise-stress-misclassification"
+repository-code: "https://github.com/MohannadBanat/exercise-stress-misclassification"
 authors:
   - family-names: "Abu Owida"
     given-names: "Hamza"
