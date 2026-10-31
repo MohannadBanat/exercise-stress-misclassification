@@ -1,5 +1,6 @@
 #!/bin/bash
-# End-to-end rerun of every analysis in the paper, from the raw data to vals.json (every number in the manuscript).
+# End-to-end rerun of every analysis in the paper, from the raw data to vals.json (every number in the manuscript)
+# and, since v1.1.0, vals_revision.json (the numbers added in the revision).
 # Usage (from the repository root):
 #   HONGN_DIR=/path/to/wearable-device-dataset-from-induced-stress-and-structured-exercise-sessions-1.0.1 \
 #   WESAD_ZIP=/path/to/WESAD.zip  bash code/run_all.sh
@@ -40,7 +41,14 @@ if [ -n "${WESAD_ZIP:-}" ] || [ -n "${WESAD_E4_DIR:-}" ]; then
 fi
 stage 22_controls1     python improve/review_controls.py S1 S2 S3
 stage 23_controls2     python improve/review_controls2.py S4 S5 S6 S7 S4b
+if [ -f features_wesad/windows_wesad.csv ]; then   # post hoc analyses added during peer review (v1.1.0); they also use the WESAD features
+  mkdir -p improve/review
+  stage 23c_review_R1_ablations  python improve/review_r1_ablations.py
+  stage 23d_review_R1_magnitude  python improve/review_r1_magnitude.py
+fi
 stage 24_summarize     python summarize.py
+if [ -f improve/review/sum_r1_magnitude.json ]; then stage 24b_vals_revision python make_vals_revision.py; fi
 stage 25_figures       bash -c "python make_figures.py && python make_result_figures.py fig3 fig4 fig5 fig6 fig7 fig8"
+if [ -f improve/review/sum_r1_magnitude.json ]; then stage 25b_revision_figures python make_revision_figures.py; fi
 stage 26_verify        python verify.py "$ROOT"
 echo "$(date -u +%H:%M:%S) ALL DONE" >> logs/status.txt; cat logs/26_verify.log

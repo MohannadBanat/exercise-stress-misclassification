@@ -9,7 +9,9 @@ P += [(f'results_x/{os.path.basename(f)}', f'results/exploratory/{os.path.basena
 P += [(f'improve/{os.path.basename(f)}', f'results/detector/{os.path.basename(f)}') for f in sorted(glob.glob(f'{ROOT}/results/detector/*'))
       if os.path.basename(f) != 'diagnosis.json']
 P += [('improve/review/sum_review.json', 'results/controls/sum_review.json')]
-if os.path.exists('wesad_e4'): P += [('data/segments_wesad.csv', 'segment_index/segments_wesad.csv'), ('wesad_e4/sync_wesad.csv', 'segment_index/sync_wesad.csv')]
+if os.path.exists('wesad_e4'): P += [('data/segments_wesad.csv', 'segment_index/segments_wesad.csv'), ('wesad_e4/sync_wesad.csv', 'segment_index/sync_wesad.csv'),
+                                    ('improve/review/sum_r1_ablations.json', 'results/controls/sum_r1_ablations.json'),   # v1.1.0: analyses added during peer review
+                                    ('improve/review/sum_r1_magnitude.json', 'results/controls/sum_r1_magnitude.json'), ('build/vals_revision.json', 'results/vals_revision.json')]
 else: P = [p for p in P if 'WESAD' not in p[0]]
 def flat(x, p=''):
     if isinstance(x, dict):
