@@ -4,19 +4,19 @@
 
 Code, segment index and pre-specified analysis rules for:
 
-> Abu Owida, H.; Alsarhan, A.; Banat, M.; Al-Fraihat, D.; Algarni, A. **Revealing Exercise-Induced Misclassification in Wearable Stress Detection for Automated Insulin Delivery.** *Sensors* (submitted, 2026).
+> Abu Owida, H.; Alsarhan, A.; Banat, M.; Al-Fraihat, D.; Algarni, A. **Revealing Misclassification of Exercise Sessions in Wearable Stress Detection for Automated Insulin Delivery.** *Sensors* (under revision, 2026; submitted as "Revealing Exercise-Induced Misclassification in Wearable Stress Detection for Automated Insulin Delivery").
 
 The study re-evaluates stress and exercise recognition from Empatica E4 wrist signals under a pre-registered plan, measures how often a stress detector fires during structured exercise, and tests an exercise-robust detector on a sealed test set and on an external dataset (WESAD).
 
 ## Archived version
 
-The version used in the paper (v1.0.0) is archived on Zenodo: https://doi.org/10.5281/zenodo.23438149. The DOI https://doi.org/10.5281/zenodo.23438148 always resolves to the latest version.
+Version 1.0.0, cited in the original submission, is archived on Zenodo: https://doi.org/10.5281/zenodo.23438149. Version 1.1.0 adds the analyses of the revised manuscript (see `CHANGELOG.md`). The concept DOI https://doi.org/10.5281/zenodo.23438148, cited in the revised manuscript, always resolves to the latest version.
 
 ## Pre-registration
 
 The analysis plan was registered on the Open Science Framework before any model was trained: https://osf.io/swge8
 
-Rules for the analyses added after registration (episode-level evaluation, reduction of rest false alarms, external test) were fixed in dated documents whose SHA-256 hashes are reported in the paper (Table A3). Those documents are in `prespecifications/`; their hashes can be checked with `sha256sum`.
+Rules for the analyses added after registration (episode-level evaluation, reduction of rest false alarms, external test) were fixed in dated documents whose SHA-256 hashes are reported in the paper (Table A2 of the revised manuscript; Table A3 of the original submission). Those documents are in `prespecifications/`; their hashes can be checked with `sha256sum`.
 
 ## Data (not included)
 
@@ -35,10 +35,10 @@ The raw recordings are **not** redistributed here. Download them from the origin
 | `segment_index/` | Mapping of every event mark to a protocol block (`segments.csv`, 885 blocks) with the session timing, quality-control and grouping files derived from it; WESAD condition blocks aligned to the raw E4 clock (`segments_wesad.csv`, `sync_wesad.csv`) |
 | `prespecifications/` | Hashed rule documents for the episode-level, false-alarm and external analyses, and the record of the sealed hold-out (`lockbox.json`) |
 | `logs/` | Trial log of all configurations evaluated during detector development (`trial_log.csv`), the logs of the original runs, the dates on which the sealed hold-out and WESAD were first opened, and the record of an independent full rerun |
-| `results/` | Archived outputs of the original run, and `vals.json`, every number quoted in the paper |
+| `results/` | Archived outputs of the original run, and `vals.json`, every number quoted in the paper; since v1.1.0 also the outputs of the analyses added in the revision (`controls/sum_r1_ablations.json`, `controls/sum_r1_magnitude.json`) and `vals_revision.json`, every number they add to the paper |
 | `environment/` | Complete `pip freeze`, Python version and platform of the environment that produced the results |
 
-### Pre-specification hashes (Table A3 of the paper)
+### Pre-specification hashes (Table A2 of the revised manuscript)
 
 | Document | SHA-256 |
 |---|---|
@@ -70,9 +70,13 @@ Scripts that open the sealed hold-out or WESAD (`improve/run_m4.py`, `improve/ru
 
 On 14 October 2026 the repository was run end to end from a fresh copy: every one of the 46 archived output files, including all 825 values in `results/vals.json`, was reproduced identically (`logs/REPRODUCIBILITY_repository.md`).
 
+## Analyses added in the revision (v1.1.0)
+
+At the reviewers' request, two post hoc analyses were added: ablations of the reference detector with physiological features only or accelerometer features only, under grouped cross-validation, in the sealed test and on WESAD (`improve/review_r1_ablations.py`), and stress-window detection by the size of the response, with and without the 5-min adaptive reference (`improve/review_r1_magnitude.py`). Both need the WESAD features. `make_vals_revision.py` collects every number they add to the paper into `vals_revision.json`, and `make_revision_figures.py` draws the new and redrawn figures. `run_all.sh` and `verify.py` include them. They were run in the original analysis environment on 31 October 2026 (logs in `logs/run_logs/review_R1_*.txt`); the end-to-end rerun of 14 October 2026 predates them.
+
 ## Citation
 
-If you use this code, please cite the article above and this archive (DOI to be added on release). Citation metadata is in `CITATION.cff`.
+If you use this code, please cite the article above and this archive (https://doi.org/10.5281/zenodo.23438148). Citation metadata is in `CITATION.cff`.
 
 ## License
 
