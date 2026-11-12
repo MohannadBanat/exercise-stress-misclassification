@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.1 (12 November 2026): second revision for *Sensors*
+
+At a reviewer's request, the file-integrity details were removed from the manuscript and are now documented in this repository. No analysis code, data file or result was changed; this version adds:
+
+- `README.md`: a new section, "Data and file integrity", which documents the SHA-256 check of the 708 files of the PhysioNet release, the full hashes and recording times of the three pre-specification documents, and the hash of the sealed-participant list. The previous README table pointed to Table A2 of the first revision, which no longer lists the hashes.
+- `code/make_figure1_v12.py`: Figure 1 of the second revision, which labels the exploratory analyses EA1–EA5 and adds the post hoc controls PC1–PC7.
+- `CITATION.cff` and `.zenodo.json`: version 1.1.1.
+
 ## 1.1.0 (31 October 2026): revision for *Sensors*
 
 The manuscript was revised after peer review and retitled "Revealing Misclassification of Exercise Sessions in Wearable Stress Detection for Automated Insulin Delivery". Nothing archived in v1.0.0 was changed; this version adds:

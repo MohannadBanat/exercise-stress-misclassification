@@ -10,13 +10,13 @@ The study re-evaluates stress and exercise recognition from Empatica E4 wrist si
 
 ## Archived version
 
-Version 1.0.0, cited in the original submission, is archived on Zenodo: https://doi.org/10.5281/zenodo.23438149. Version 1.1.0 adds the analyses of the revised manuscript (see `CHANGELOG.md`). The concept DOI https://doi.org/10.5281/zenodo.23438148, cited in the revised manuscript, always resolves to the latest version.
+Version 1.0.0, cited in the original submission, is archived on Zenodo: https://doi.org/10.5281/zenodo.23438149. Version 1.1.0 adds the analyses of the first revision, and version 1.1.1 documents the integrity checks below and adds the script for Figure 1 of the second revision (see `CHANGELOG.md`). The concept DOI https://doi.org/10.5281/zenodo.23438148, cited in the revised manuscript, always resolves to the latest version.
 
 ## Pre-registration
 
 The analysis plan was registered on the Open Science Framework before any model was trained: https://osf.io/swge8
 
-Rules for the analyses added after registration (episode-level evaluation, reduction of rest false alarms, external test) were fixed in dated documents whose SHA-256 hashes are reported in the paper (Table A2 of the revised manuscript; Table A3 of the original submission). Those documents are in `prespecifications/`; their hashes can be checked with `sha256sum`.
+Rules for the analyses added after registration (episode-level evaluation, reduction of rest false alarms, external test) were fixed in dated documents before each analysis was run. Those documents are in `prespecifications/`; their SHA-256 hashes are listed under [Data and file integrity](#data-and-file-integrity).
 
 ## Data (not included)
 
@@ -38,15 +38,23 @@ The raw recordings are **not** redistributed here. Download them from the origin
 | `results/` | Archived outputs of the original run, and `vals.json`, every number quoted in the paper; since v1.1.0 also the outputs of the analyses added in the revision (`controls/sum_r1_ablations.json`, `controls/sum_r1_magnitude.json`) and `vals_revision.json`, every number they add to the paper |
 | `environment/` | Complete `pip freeze`, Python version and platform of the environment that produced the results |
 
-### Pre-specification hashes (Table A2 of the revised manuscript)
+## Data and file integrity
 
-| Document | SHA-256 |
-|---|---|
-| `episode_prespec.md` (episode-level evaluation) | `409b985cbfbb…` |
-| `m6_prespec.md` (reduction of rest false alarms) | `2ef370e3330a…` |
-| `wesad_addendum.md` (external test on WESAD) | `7d87c337fccf…` |
+Up to the first revision these checks were described in the manuscript; from the second revision on they are documented here.
 
-Each `.sha256` file is the original record: the hash on the first line and the time it was taken (UTC) on the second. Check them with `sha256sum prespecifications/*.md`. The scripts that use these rules refuse to run if a document has changed.
+**Dataset files.** The PhysioNet release (v1.0.1) publishes SHA-256 checksums of its files in `SHA256SUMS.txt`. All 708 files of the release (704 data files in 100 recordings and four documentation files: LICENSE, README, the notebook and the data-constraints file) were checked against them on the original download, and all matched. `code/run_all.sh` repeats the check as its first stage (`00_sha256`: `sha256sum -c SHA256SUMS.txt --ignore-missing --quiet`, run in the dataset folder) and stops if any file differs. In the full rerun of 9 October 2026 all 704 data files matched; the documentation files were not in that copy (`logs/REPRODUCIBILITY_2026-10-09.md`).
+
+**Pre-specification documents.** The rules of the episode-level evaluation, the reduction of rest false alarms and the external test (EA3–EA5 in the second revision) were fixed in the documents below before the analysis each one governs was run.
+
+| Document | SHA-256 | Recorded (UTC) |
+|---|---|---|
+| `episode_prespec.md` (episode-level evaluation) | `409b985cbfbbb000f66471ef3b6277177ca22461fb6041f8759b08d2eb9bea75` | 2026-10-09T01:34:33Z |
+| `m6_prespec.md` (reduction of rest false alarms) | `2ef370e3330a82462c1da16d33ba402507d2bda10fbb9fcfd389723b8f60d657` | 2026-10-09T22:19:57Z |
+| `wesad_addendum.md` (external test on WESAD) | `7d87c337fccf15589beead721e0d082e9a21480be5798e9cae8c3205f147babe` | 2026-10-09T23:40:07Z |
+
+Each `.sha256` file is the original record: the hash on the first line and the time it was taken (UTC) on the second. Check them with `cd prespecifications && sha256sum *.md`. The scripts that use these rules (`improve/run_m5_episode.py`, `improve/run_m6.py`, `improve/run_wesad.py`) refuse to run if a document has changed. The hashes were not deposited with a third party, so the time at which each document was fixed cannot be verified independently.
+
+**Sealed participants.** `prespecifications/lockbox.json` records the 12 sealed participants, the seed with which they were drawn, the date on which they were sealed (2026-10-09) and the SHA-256 hash of their list (`13999c34317c8dc1cf015c2aa16e0764557d9c741f3959d89fccf638dd7e8664`); `improve/run_m4.py` refuses to run if the list has been altered. `logs/run_once_markers.txt` records when the sealed participants and WESAD were first opened.
 
 ## Environment
 
