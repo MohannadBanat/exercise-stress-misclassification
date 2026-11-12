@@ -34,7 +34,7 @@ for i, (k, t, b) in enumerate(exps):
     box(i * 16.8, 66, 15.6, 18, f'{k}  {t}', b, fc='#fdeee7' if k in ('E1', 'E2', 'E6') else '#f3f2ee', tsz=7.0, bsz=6.1, dy=7.9)
 
 # tier 3: exploratory analyses EA1-EA5
-tier(60.3, 'Exploratory analyses EA1–EA5, selection rules written down before each analysis was run (Section 3.6)')
+tier(60.3, 'Exploratory analyses EA1–EA5, methods chosen without the test participants (Section 3.6)')
 xs = [('EA1  Deployable\nimprovements', 'calibration, context\nfeatures, smoothing;\nexercise-robust detector'),
       ('EA2  Development,\nsealed test', '24 development →\n12 sealed participants'),
       ('EA3  Episode-level\nevaluation', 'episodes, false alarms\nper hour, chance'),
